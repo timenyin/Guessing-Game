@@ -25,3 +25,5 @@ document.querySelector('.check').addEventListener('click', function () {
     document.querySelector('.message').textContent = '🔐 no number inputed';
   }
 });
+
+// === implementing the game logic
